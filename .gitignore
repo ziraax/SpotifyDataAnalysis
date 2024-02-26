@@ -1,3 +1,5 @@
 env/
 Spotify Million Song Dataset_exported.csv
 tracks_features.csv
+classified_dataset.csv
+classified_dataset_w_features.csv
