@@ -37,9 +37,20 @@ Please refer to the respective datasets for more details and to access the raw d
 - LDA (Latent Dirichlet Allocation)
 - Clustering
 
+## Data visualization
 
-# Datasets
+- Sentiment score over Text Length
 
-https://www.kaggle.com/datasets/joebeachcapital/57651-spotify-songs/data
-https://www.kaggle.com/datasets/rodolfofigueroa/spotify-12m-songs/data
+![Sentiment over text length](imgs/sentiment_score_text_lenght.png)
+
+
+- Evolution of songs features over time
+
+![Evolution of songs features over time](imgs/evolution_songs_features_time.png)
+
+
+## Datasets
+
+- https://www.kaggle.com/datasets/joebeachcapital/57651-spotify-songs/data
+- https://www.kaggle.com/datasets/rodolfofigueroa/spotify-12m-songs/data
 
